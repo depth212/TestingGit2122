@@ -13,6 +13,7 @@
 		BB2088F52524D28900418457 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB2088F32524D28900418457 /* Main.storyboard */; };
 		BB2088F72524D28A00418457 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB2088F62524D28A00418457 /* Assets.xcassets */; };
 		BB2088FA2524D28A00418457 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB2088F82524D28A00418457 /* LaunchScreen.storyboard */; };
+		BB2089022524D65A00418457 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB2089012524D65A00418457 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BB2088F62524D28A00418457 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB2088F92524D28A00418457 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB2088FB2524D28A00418457 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB2089012524D65A00418457 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BB2088ED2524D28900418457 /* AppDelegate.swift */,
 				BB2088EF2524D28900418457 /* SceneDelegate.swift */,
 				BB2088F12524D28900418457 /* ViewController.swift */,
+				BB2089012524D65A00418457 /* MapForItinerary.swift */,
 				BB2088F32524D28900418457 /* Main.storyboard */,
 				BB2088F62524D28A00418457 /* Assets.xcassets */,
 				BB2088F82524D28A00418457 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB2089022524D65A00418457 /* MapForItinerary.swift in Sources */,
 				BB2088F22524D28900418457 /* ViewController.swift in Sources */,
 				BB2088EE2524D28900418457 /* AppDelegate.swift in Sources */,
 				BB2088F02524D28900418457 /* SceneDelegate.swift in Sources */,
